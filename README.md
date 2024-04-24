@@ -5,17 +5,16 @@ Analysis of Air Quality and Asthma
 Table of Contents:
 
 
-•	Tableau Dashboard
+
 •	Motivation
 •	Data Questions
-•	Data Cleaning
+•	Data 
 •	Challenges
 •	Technologies Used
 •	Sources
 •	Conclusion
 
 
-Tableau Dashboard:
 
 
 Motivation:
@@ -36,20 +35,19 @@ Data Questions:
 
 Data Cleaning:
 
-The datasets for asthma had data from 2017 – 2021 on the CDC website, so I also picked datasets from 2017 to 2021 from the EPA for air quality data. I created multiple dataframes for the years 2017 - 2021.
-
+The CDC website provided asthma data from 2017 to 2021, so I obtained corresponding air quality datasets from the EPA for the same years. I created multiple dataframes for the years 2017 to 2021."
 
 
 Challenges:
 
-All the datasets were separate, I had to create a dataframe for all 50 states and then merge them with Asthma statistics to compare the two. 
-Some data that was given were incomplete or incorrectly recorded and have to change a few datatypes to merge them.
+Some of the data provided were incomplete or incorrectly recorded, requiring me to change a few data types to facilitate merging."
+
 
 
 Technologies Used:
 
-Python/Pandas – for exploration, normalizing and aggregation of dataset.
-Tableau – for dashboards
+Python/Pandas for exploration, normalizing and aggregation of dataset.
+Tableau for dashboards
 PowerPoint for introducing the project 
 
 
@@ -65,7 +63,6 @@ Sources:
 
 Conclusion:
 
-My analysis shows that there is no correlation between bad air quality and asthma and there may be a slight tendency for higher asthma percentages to coincide with higher maximum AQI values. The relationship is complex and other variables such as individual susceptibility, geographical factors and socio-economic status may also influence prevalence of asthma. Therefore, while improving air quality is undoubtedly beneficial for public health, addressing asthma comprehensively requires a multi-faceted approach. 
-
+My analysis shows that there is no clear correlation between bad air quality and asthma. However, there may be a slight tendency for higher asthma percentages to coincide with higher maximum Air Quality Index (AQI) values. This relationship is complex, as other variables such as individual susceptibility, geographical factors, and socio-economic status may also influence the prevalence of asthma. Therefore, while improving air quality is undoubtedly beneficial for public health, addressing asthma comprehensively requires a multi-faceted approach.
 
 
