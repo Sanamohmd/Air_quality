@@ -5,7 +5,7 @@ Analysis of Air Quality and Asthma
 Table of Contents:
 
 
-
+•	Tableau Dashboard
 •	Motivation
 •	Data Questions
 •	Data 
@@ -15,7 +15,8 @@ Table of Contents:
 •	Conclusion
 
 
-
+Tableau Dashboard:
+(https://public.tableau.com/views/AsthmaandAirQuality-capstone/TableauPublic?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 Motivation:
 
